@@ -1,3 +1,7 @@
+#: /views/partials/case-band.j2:6 /views/partials/case-band.j2:33
+msgid "000A screenshot of a website using AMP."
+msgstr "000A screenshot of a website using AMP."
+
 #: /views/partials/case-band.j2:6 /views/partials/case-band.j2:31
 msgid "111A screenshot of a website using AMP."
 msgstr "111A screenshot of a website using AMP."
